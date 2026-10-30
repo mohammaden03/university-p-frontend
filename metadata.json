@@ -1,0 +1,6 @@
+{
+  "name": "Persian & Arabic Manuscript HTR/OCR Platform",
+  "description": "سامانه هوشمند بازشناسی، رونویسی و جستجوی پیشرفته نسخ خطی کهن فارسی و عربی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
